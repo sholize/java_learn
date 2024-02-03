@@ -13,15 +13,6 @@ public class MyFirstProgram {
 
 	}
 
-	public static void hello(String some){
-		System.out.println("hello, " + some + " !");
-	}
-
-	public static double area(Square s){
-		return s.l * s.l;
-	}
 
 
-	
-	
 }
